@@ -13,6 +13,8 @@ Bill of Materials (BOM)
 
 # Project Gallery
 
+<img width="687" height="850" alt="image" src="https://github.com/user-attachments/assets/3de5c574-0451-4143-bacc-5abdcb04bc7a" />
+
 ## 1. System Schematic
 
 ![Description](https://github.com/premvy/premvy_macropad/blob/main/Images/Screenshot%202026-02-16%20122518.png)
