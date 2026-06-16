@@ -13,7 +13,8 @@ Bill of Materials (BOM)
 
 # Project Gallery
 
-<img width="687" height="850" alt="image" src="https://github.com/user-attachments/assets/3de5c574-0451-4143-bacc-5abdcb04bc7a" />
+<img width="1024" height="713" alt="image" src="https://github.com/user-attachments/assets/18aab999-cdca-4f48-b2c7-d23321cf9ed2" />
+
 
 ## 1. System Schematic
 
