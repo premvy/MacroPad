@@ -1,4 +1,4 @@
-# ⌨️ Macropad
+# <img src="https://example.com/path-to-this-detailed-image.png" width="30"> Macropad
 
 A custom 12-key macropad with per-key RGB lighting and an OLED display, powered by the Seeed XIAO RP2040. Designed with KiCad, SolidWorks, and Python.
 
