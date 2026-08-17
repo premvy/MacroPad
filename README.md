@@ -13,7 +13,7 @@ Bill of Materials (BOM)
 
 # Project Gallery
 
-<img width="2311" height="1728" alt="Gemini_Generated_Image_w7pqk1w7pqk1w7pq" src="https://github.com/user-attachments/assets/b0200886-8376-4571-8803-05358ee29866" />
+<img width="2311" height="1728" alt="Macropad Image" src="https://github.com/user-attachments/assets/0e9f71a2-f45d-439e-940c-8ffddb6b5fb8" />
 
 
 ## 1. System Schematic
